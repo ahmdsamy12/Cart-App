@@ -1,4 +1,5 @@
 {
+  "proxy": "http://localhost:5000",
   "homepage": "https://ahmdsamy.github.io/Cart-App/",
   "name": "my-app5",
   "version": "0.1.0",
